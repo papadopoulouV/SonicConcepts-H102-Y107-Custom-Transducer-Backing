@@ -5,7 +5,7 @@ This STL file can be printed for use with the Sonic Concepts H102 and Y107 trans
 The codes are licensed under GPL-2.0 license.
 
 # Citation
-For any utilization of the code content of this repository, the following paper needs to get cited by the user:
+For any utilization of the content of this repository, the following paper needs to get cited by the user:
   
 > VanTreeck KE, Liu JD, Sherman K, Tabashsum Z, Angeles-Solano M, Lifschin ZJ, Dayton PA, Rowe SE, Papadopoulou V. (2026) Ultrasound Cavitation From Low-Boiling Point Perfluorocarbon Phase Change Contrast Agents Correlates With Bacterial Burden Reduction in Antibiotic Treatment of Biofilm-Infected Murine Wounds. Ultrasound in Medicine and Biology.
 
